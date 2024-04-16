@@ -1,6 +1,9 @@
 {
   "name": "SoftMining AI",
   "symbol": "SAI",
+  "uri": "https://github.com/nbertaioli/softminingtoken/blob/main/metadata.json",
+  "supply": 5000000,
   "decimals": 5,
-  "logo": "https://github.com/nbertaioli/softminingtoken/blob/main/Group%2032.png"
+  "logo": "https://github.com/nbertaioli/softminingtoken/blob/main/Group%2032.png",
+  "is_mutable": true
 }
